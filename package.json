@@ -1,0 +1,16 @@
+{
+  "name": "alines-canlidestek",
+  "version": "1.0.0",
+  "description": "Alines - Ardawn",
+  "main": "anadosya.js",
+  "scripts": {
+    "start": "node anadosya.js"
+  },
+  "author": "Ardawn",
+  "license": "MIT",
+  "dependencies": {
+    "@akarui/aoi.db": "^2.3.3",
+    "aoi.js": "^6.8.5",
+    "discord.js": "^14.15.3"
+  }
+}
