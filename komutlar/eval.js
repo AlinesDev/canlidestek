@@ -1,7 +1,7 @@
-module.exports = [{
+module.exports = {
 name: "eval",
-aliases: ["e"],
 code: `
-$eval[$noMentionMessage]
+$eval[$message]
+$onlyForIDs[KENDI ID'NIZ BURAYA;Sahibim değilsin.]
 `
-}]
+}
